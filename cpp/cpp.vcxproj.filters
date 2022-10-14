@@ -13,16 +13,25 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="소스 파일\3reference">
+      <UniqueIdentifier>{aab9fab2-4d0b-44c1-862d-ac9c61527b88}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\problem">
+      <UniqueIdentifier>{63ae6d59-0f81-4b87-b58f-ebe5bf427851}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="cpp.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="2798.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\problem</Filter>
     </ClCompile>
     <ClCompile Include="reference1.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\3reference</Filter>
+    </ClCompile>
+    <ClCompile Include="reference2.cpp">
+      <Filter>소스 파일\3reference</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

@@ -19,6 +19,9 @@
     <Filter Include="소스 파일\problem">
       <UniqueIdentifier>{63ae6d59-0f81-4b87-b58f-ebe5bf427851}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\4tocppworld">
+      <UniqueIdentifier>{c6ecb88a-0cf3-445d-80d1-69fb69e8a6f6}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="cpp.cpp">
@@ -38,6 +41,15 @@
     </ClCompile>
     <ClCompile Include="reference4.cpp">
       <Filter>소스 파일\3reference</Filter>
+    </ClCompile>
+    <ClCompile Include="4_1.cpp">
+      <Filter>소스 파일\4tocppworld</Filter>
+    </ClCompile>
+    <ClCompile Include="4_2.cpp">
+      <Filter>소스 파일\4tocppworld</Filter>
+    </ClCompile>
+    <ClCompile Include="4_3.cpp">
+      <Filter>소스 파일\4tocppworld</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
